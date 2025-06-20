@@ -1,0 +1,11 @@
+# Ignore all CSV files by *
+*.csv
+
+# Ignore SQLite files (if any)
+*.db
+
+# PyCharm & Python-specific ignores
+__pycache__/
+*.pyc
+.idea/
+.env
